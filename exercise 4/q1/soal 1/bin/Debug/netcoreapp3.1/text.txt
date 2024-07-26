@@ -1,0 +1,7 @@
+book
+name : h1
+writer : a1
+price : 1000
+ID : 1
+publication : e1
+ 

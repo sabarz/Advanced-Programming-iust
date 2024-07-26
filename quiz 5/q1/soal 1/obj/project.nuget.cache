@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8R0xLdBqyhSdFk30i6sjAyfdrWaQZC33vA0BWTnTD8nmcbLj0mrHhu2uZx6SRr/aMnARIZpqwj+hvw7kTIGEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saba\\Desktop\\saba folder\\term 2\\AP\\quiz 5\\soal 1\\soal 1\\soal 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

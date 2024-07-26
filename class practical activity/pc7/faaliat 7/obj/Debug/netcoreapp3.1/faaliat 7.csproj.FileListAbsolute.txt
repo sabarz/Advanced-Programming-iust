@@ -1,0 +1,13 @@
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\obj\Debug\netcoreapp3.1\faaliat 7.csprojAssemblyReference.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\obj\Debug\netcoreapp3.1\faaliat 7.AssemblyInfoInputs.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\obj\Debug\netcoreapp3.1\faaliat 7.AssemblyInfo.cs
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\obj\Debug\netcoreapp3.1\faaliat 7.csproj.CoreCompileInputs.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\bin\Debug\netcoreapp3.1\faaliat 7.exe
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\bin\Debug\netcoreapp3.1\faaliat 7.deps.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\bin\Debug\netcoreapp3.1\faaliat 7.runtimeconfig.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\bin\Debug\netcoreapp3.1\faaliat 7.runtimeconfig.dev.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\bin\Debug\netcoreapp3.1\faaliat 7.dll
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\bin\Debug\netcoreapp3.1\faaliat 7.pdb
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\obj\Debug\netcoreapp3.1\faaliat 7.dll
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\obj\Debug\netcoreapp3.1\faaliat 7.pdb
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 7\faaliat 7\obj\Debug\netcoreapp3.1\faaliat 7.genruntimeconfig.cache

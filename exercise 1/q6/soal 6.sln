@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soal 6", "soal 6\soal 6.csproj", "{9CF9FE93-61BB-4ADE-8D33-6F9C94742C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF9FE93-61BB-4ADE-8D33-6F9C94742C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF9FE93-61BB-4ADE-8D33-6F9C94742C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF9FE93-61BB-4ADE-8D33-6F9C94742C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF9FE93-61BB-4ADE-8D33-6F9C94742C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1975CF1B-0307-405E-9E31-B9A7E8C3F294}
+	EndGlobalSection
+EndGlobal

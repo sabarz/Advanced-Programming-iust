@@ -1,0 +1,13 @@
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\obj\Debug\netcoreapp3.1\soal 2.csprojAssemblyReference.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\obj\Debug\netcoreapp3.1\soal 2.AssemblyInfoInputs.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\obj\Debug\netcoreapp3.1\soal 2.AssemblyInfo.cs
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\obj\Debug\netcoreapp3.1\soal 2.csproj.CoreCompileInputs.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\bin\Debug\netcoreapp3.1\soal 2.exe
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\bin\Debug\netcoreapp3.1\soal 2.deps.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\bin\Debug\netcoreapp3.1\soal 2.runtimeconfig.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\bin\Debug\netcoreapp3.1\soal 2.runtimeconfig.dev.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\bin\Debug\netcoreapp3.1\soal 2.dll
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\bin\Debug\netcoreapp3.1\soal 2.pdb
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\obj\Debug\netcoreapp3.1\soal 2.dll
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\obj\Debug\netcoreapp3.1\soal 2.pdb
+C:\Users\razi\Desktop\saba folder\term 2\AP\tamrin 2\soal 2\soal 2\obj\Debug\netcoreapp3.1\soal 2.genruntimeconfig.cache

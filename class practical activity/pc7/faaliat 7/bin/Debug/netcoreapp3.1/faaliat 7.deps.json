@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "faaliat 7/1.0.0": {
+        "runtime": {
+          "faaliat 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "faaliat 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

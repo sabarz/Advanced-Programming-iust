@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/MR63YyH5uRVBHvmISeDUDpl/5pQP9MT1bqIHRKSUF2S964JQ24vciM6YW/iLEes++FDqlIOrHnf66HPnatjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\razi\\Desktop\\saba folder\\term 2\\AP\\quiz 4\\quiz 4\\quiz 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

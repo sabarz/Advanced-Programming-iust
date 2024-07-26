@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nXd2FZIlQckosKgx6EhB0uHG2qwSe8G8canw79AWi00iO7LBqRDOyMW6bjIadMYFywG7hs+yknc+T848akDjUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saba\\Desktop\\saba folder\\term 2\\AP\\tamrin 6\\tamrin 6\\tamrin 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

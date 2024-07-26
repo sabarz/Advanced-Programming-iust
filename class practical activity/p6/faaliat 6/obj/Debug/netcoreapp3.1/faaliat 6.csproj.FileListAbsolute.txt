@@ -1,0 +1,13 @@
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\bin\Debug\netcoreapp3.1\faaliat 6.exe
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\bin\Debug\netcoreapp3.1\faaliat 6.deps.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\bin\Debug\netcoreapp3.1\faaliat 6.runtimeconfig.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\bin\Debug\netcoreapp3.1\faaliat 6.runtimeconfig.dev.json
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\bin\Debug\netcoreapp3.1\faaliat 6.dll
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\bin\Debug\netcoreapp3.1\faaliat 6.pdb
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\obj\Debug\netcoreapp3.1\faaliat 6.csprojAssemblyReference.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\obj\Debug\netcoreapp3.1\faaliat 6.AssemblyInfoInputs.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\obj\Debug\netcoreapp3.1\faaliat 6.AssemblyInfo.cs
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\obj\Debug\netcoreapp3.1\faaliat 6.csproj.CoreCompileInputs.cache
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\obj\Debug\netcoreapp3.1\faaliat 6.dll
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\obj\Debug\netcoreapp3.1\faaliat 6.pdb
+C:\Users\razi\Desktop\saba folder\term 2\AP\faaliat classi\faaliat 6\faaliat 6\obj\Debug\netcoreapp3.1\faaliat 6.genruntimeconfig.cache

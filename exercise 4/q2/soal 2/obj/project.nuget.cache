@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JNqMIgkiMqA3u6vu9ZKCzb2ETYCEPGdK0j6J8UW/ynSseP9yKpqy0egWRdnSt0ISfLAw7JD6DJnIz0Mdm5F3PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\razi\\Desktop\\saba folder\\term 2\\AP\\tamrin 4\\soal 2\\soal 2\\soal 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

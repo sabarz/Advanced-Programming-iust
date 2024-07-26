@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rf8V/8oSFOwk8fGqWsxGQJ3+0q8E5Maz11U/ML3FX0/odC0AQinFUEwt7YFHaPesdFaKgErYS7v+9tF1/KquVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\razi\\Desktop\\saba folder\\term 2\\AP\\faaliat classi\\faaliat 6\\faaliat 6\\faaliat 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\razi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
